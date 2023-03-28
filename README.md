@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srico7&label=Profile%20views&color=0e75b6&style=flat" alt="srico7" /> </p>
 
-- 🔭 I’m currently working on a **Front-end Bootcamp**
-
-- 🌱 I’m currently learning **Algorithm and Data Structures, Redux**
-
 - 👯 I’m looking to collaborate on **more Open Source projects**
 
 - 📫 How to reach me **chathuramail7@gmail.com**
